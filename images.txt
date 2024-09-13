@@ -21,7 +21,5 @@
 #mongo:4.2.5
 
 
-infinilabs/analysis-ik:8.5.0
-
 
 
