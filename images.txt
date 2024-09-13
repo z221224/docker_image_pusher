@@ -6,9 +6,12 @@
 
 
 
-nginx
+#nginx
 #rabbitmq
 #mysql:8.0.29
 #redis:7.0.10
+
+wurstmeister/zookeeper
+wurstmeister/kafka
 
 
