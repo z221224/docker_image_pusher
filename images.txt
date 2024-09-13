@@ -7,10 +7,8 @@
 
 
 nginx
-rabbitmq
-mysql:8.0.29
-redis:7.0.10
+#rabbitmq
+#mysql:8.0.29
+#redis:7.0.10
 
-
-seata
 
