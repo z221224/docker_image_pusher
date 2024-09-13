@@ -10,12 +10,13 @@
 #rabbitmq
 #mysql:8.0.29
 #redis:7.0.10
+bitnami/redis:latest
 
 #wurstmeister/zookeeper
 #wurstmeister/kafka
 
 #nacos/nacos-server:v2.1.1
-nacos/nacos-server:v2.1.0
+#nacos/nacos-server:v2.1.0
 #bladex/sentinel-dashboard
 #openzipkin/zipkin
 #minio/minio
