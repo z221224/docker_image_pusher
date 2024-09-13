@@ -7,3 +7,5 @@ xhofe/alist:latest
 
 python:alpine3.19
 rabbitmq
+python:alpine
+
