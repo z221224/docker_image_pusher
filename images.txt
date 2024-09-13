@@ -11,5 +11,6 @@ rabbitmq
 mysql:8.0.29
 redis:7.0.10
 
-nacos-server:v2.1.1
+
+seata
 
