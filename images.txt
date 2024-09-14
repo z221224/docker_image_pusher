@@ -9,8 +9,13 @@
 #nginx
 #rabbitmq
 #mysql:8.0.29
+mysql/mysql-server:8.0.23
+nginx:stable-alpine
+seataio/seata-server
+
+
 #redis:7.0.10
-bitnami/redis:latest
+#bitnami/redis:latest
 
 #wurstmeister/zookeeper
 #wurstmeister/kafka
