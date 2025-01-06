@@ -20,7 +20,7 @@
 #wurstmeister/zookeeper
 #wurstmeister/kafka
 
-#nacos/nacos-server:v2.1.1
+nacos/nacos-server:v2.1.1
 #nacos/nacos-server:v2.1.0
 #bladex/sentinel-dashboard
 #openzipkin/zipkin
