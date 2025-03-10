@@ -27,6 +27,6 @@ nacos/nacos-server:v2.1.1
 #minio/minio
 #mongo:4.2.5
 
-
+seataio/seata-server:1.7.0
 
 
