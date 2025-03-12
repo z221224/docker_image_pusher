@@ -12,7 +12,7 @@
 #mysql/mysql-server:8.0.23
 #nginx:stable-alpine
 #seataio/seata-server
-
+ 
 
 #redis:7.0.10
 #bitnami/redis:latest
