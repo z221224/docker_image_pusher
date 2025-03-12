@@ -6,6 +6,9 @@
 
 #registry.cn-hangzhou.aliyuncs.com/anoy/yapi
 
+seataio/seata-server:1.7.0
+
+
 #nginx
 #rabbitmq
 #mysql:8.0.29
@@ -20,13 +23,13 @@
 #wurstmeister/zookeeper
 #wurstmeister/kafka
 
-nacos/nacos-server:v2.1.1
+#nacos/nacos-server:v2.1.1
 #nacos/nacos-server:v2.1.0
 #bladex/sentinel-dashboard
 #openzipkin/zipkin
 #minio/minio
 #mongo:4.2.5
 
-seataio/seata-server:1.7.0
+
 
 
