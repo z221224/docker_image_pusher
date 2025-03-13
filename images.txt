@@ -6,8 +6,11 @@
 
 #registry.cn-hangzhou.aliyuncs.com/anoy/yapi
 
-seataio/seata-server:1.7.0
+#seataio/seata-server:1.7.0
 
+elasticsearch:8.5.0
+logstash:8.5.0
+kibana:8.5.0
 
 #nginx
 #rabbitmq
