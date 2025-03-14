@@ -8,9 +8,11 @@
 
 #seataio/seata-server:1.7.0
 
-elasticsearch:8.5.0
-logstash:8.5.0
-kibana:8.5.0
+#elasticsearch:8.5.0
+#logstash:8.5.0
+#kibana:8.5.0
+
+qdrant/qdrant:1.13.4
 
 #nginx
 #rabbitmq
